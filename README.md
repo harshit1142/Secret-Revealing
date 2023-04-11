@@ -16,7 +16,7 @@
   <a href="#credits">Credits</a> •
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://github.com/harshit1142/Secret-Revealing/blob/main/giff.gif)
 
 ## Key Features
 
