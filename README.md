@@ -16,7 +16,9 @@
   <a href="#credits">Credits</a> •
 </p>
 
-![screenshot](https://github.com/harshit1142/Secret-Revealing/blob/main/giff.gif)
+
+![giff](https://github.com/harshit1142/Secret-Revealing/assets/112557145/25e91bcd-24c3-4d13-8948-f82fc9e73f3e)
+
 
 ## Key Features
 
